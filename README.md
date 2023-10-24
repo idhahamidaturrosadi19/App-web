@@ -27,7 +27,8 @@ o  Inspirasi desain:
 
 <img width="614" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/28c40678-8fe8-44e9-a8cd-08ca06aa4669">
 
-##Analysis User Story :
+## Analysis User Story :
+
 Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story ini memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
 | No | Sebagai |  Saya ingin bisa | Sehingga | Prioritas |
