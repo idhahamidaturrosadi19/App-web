@@ -55,6 +55,8 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 
 ## Design : Arsitektur Berbasis Client-Server
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
+<img width="346" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/8cf7f382-ea8e-496c-b2d8-3fd16cb8a0e8">
+
 
 ## Design : User Experience (UX) Design
 •  Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
