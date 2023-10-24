@@ -28,23 +28,23 @@ o  Inspirasi desain:
 ##Analysis User Story :
 Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story ini memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
-| Sebagai |  Saya ingin bisa | Sehingga | Prioritas |
-|---------|-----------|-------|---------|
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+| No | Sebagai |  Saya ingin bisa | Sehingga | Prioritas |
+|----|---------|------------------|----------|-----------|
+|1|Pengguna |mencari buku berdasarkan judul, penulis, atau kategori|saya bisa dengan mudah menemukan buku yang saya cari| ⭐⭐⭐⭐⭐ |
+|2|Pengguna |menyimpan daftar buku yang ingin saya baca di dalam aplikasi|saya tidak lupa buku mana yang ingin dibaca berikutnya| ⭐⭐⭐⭐⭐ |
+|3|Pengguna |memiliki opsi untuk meminjam buku secara digital atau fisik|kemudian bisa melacak tanggal pengembalian buku tersebut| ⭐⭐⭐⭐⭐ |
+|4|Pengguna |melihat daftar buku populer atau baru yang ditambahkan ke perpustakaan|saya bisa tetap up-to-date dengan koleksi perpustakaan| ⭐⭐⭐⭐⭐ |
+|5|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|6|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|7|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|8|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|9|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|10|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|11|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|12|Pngguna |  |  | ⭐⭐⭐⭐⭐ |
+|13|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|14|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|15|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
 
 ## Analysis : Structure Data
 •  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
