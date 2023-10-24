@@ -23,6 +23,7 @@ o  Simpel
 o  Menyenangkan
 o  Warna: Lime fizz
 o  Inspirasi desain:
+
 <img width="614" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/28c40678-8fe8-44e9-a8cd-08ca06aa4669">
 
 ##Analysis User Story :
@@ -30,21 +31,21 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 
 | No | Sebagai |  Saya ingin bisa | Sehingga | Prioritas |
 |----|---------|------------------|----------|-----------|
-|1|Pengguna |mencari buku berdasarkan judul, penulis, atau kategori|saya bisa dengan mudah menemukan buku yang saya cari| ⭐⭐⭐⭐⭐ |
-|2|Pengguna |menyimpan daftar buku yang ingin saya baca di dalam aplikasi|saya tidak lupa buku mana yang ingin dibaca berikutnya| ⭐⭐⭐⭐⭐ |
-|3|Pengguna |memiliki opsi untuk meminjam buku secara digital atau fisik|kemudian bisa melacak tanggal pengembalian buku tersebut| ⭐⭐⭐⭐⭐ |
-|4|Pengguna |melihat daftar buku populer atau baru yang ditambahkan ke perpustakaan|saya bisa tetap up-to-date dengan koleksi perpustakaan| ⭐⭐⭐⭐⭐ |
-|5|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|6|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|7|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|8|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|9|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|10|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|11|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|12|Pngguna |  |  | ⭐⭐⭐⭐⭐ |
-|13|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|14|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
-|15|Pengguna |  |  | ⭐⭐⭐⭐⭐ |
+|1|Pengguna |Mencari buku berdasarkan judul, penulis, atau kategori|Saya bisa dengan mudah menemukan buku yang saya cari| ⭐⭐⭐⭐⭐ |
+|2|Pengguna |Menyimpan daftar buku yang ingin saya baca di dalam aplikasi|Saya tidak lupa buku mana yang ingin dibaca berikutnya| ⭐⭐⭐⭐⭐ |
+|3|Pengguna |Memiliki opsi untuk meminjam buku secara digital atau fisik|Kemudian bisa melacak tanggal pengembalian buku tersebut| ⭐⭐⭐⭐ |
+|4|Pengguna |Melihat daftar buku populer atau baru yang ditambahkan ke perpustakaan|Saya bisa tetap up-to-date dengan koleksi perpustakaan| ⭐⭐⭐⭐⭐ |
+|5|Pengguna |Saya ingin dapat mengakses buku-buku digital atau e-book|Bisa membacanya langsung melalui aplikasi| ⭐⭐⭐ |
+|6|Pengguna |Memiliki opsi untuk memberikan ulasan atau peringkat buku yang sudah saya baca|Pengguna lain dapat mendapatkan rekomendasi| ⭐⭐ |
+|7|Pengguna |Memiliki opsi untuk melihat detail buku, termasuk sinopsis, penulis, ulasan, dan informasi lainnya|Saya bisa mengetahuinya sebelum saya meminjam atau membeli buku tersebut| ⭐⭐⭐⭐ |
+|8|Pengguna |Menerima pemberitahuan atau peringatan ketika batas waktu pengembalian buku hampir habis|Saya tidak melewatkan kesempatan untuk membacanya| ⭐⭐⭐⭐ |
+|9|Pengguna |Mengatur notifikasi tentang acara khusus, promosi, atau perubahan dalam layanan perpustakaan|Saya  bisa mengetahuinya| ⭐ |
+|10|Pengguna |Melihat acara atau program yang diadakan oleh perpustakaan, seperti pertemuan buku|Mendaftar untuk acara tersebut| ⭐⭐⭐⭐ |
+|11|Pengguna |Memiliki opsi untuk mendaftar sebagai anggota perpustakaan melalui aplikasi|Bisa menjadi anggota perpustakaan dan dapat mengelola data anggota saya| ⭐⭐⭐ |
+|12|Pengguna |Memiliki fitur baca bersama yang memungkinkan saya untuk bergabung dengan kelompok pembaca lainnya|Kami bisa berdiskusi tentang buku yang sedang kami baca| ⭐⭐⭐⭐⭐ |
+|13|Pengguna |Mengakses perpustakaan saya secara offline|Dapat membaca buku tanpa koneksi internet| ⭐⭐ |
+|14|Pengguna |Memiliki fitur penyimpanan bookmark yang memungkinkan saya untuk menandai halaman|Saya dapat dengan mudah kembali ke tempat yang saya tinggalkan| ⭐⭐⭐⭐⭐ |
+|15|Pengguna |Menerima rekomendasi buku berdasarkan minat saya dan histori bacaan saya|Saya dapat menemukan buku-buku baru yang menarik| ⭐⭐⭐⭐⭐ |
 
 ## Analysis : Structure Data
 •  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
@@ -57,5 +58,6 @@ Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada se
 •  Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
 •  Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape (yang saya gunakan), Penpot, lalu yang gratis hingga berbayar seperti Figma.
 •  Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
+
 ![image](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/cac0767b-78d3-4442-95cb-03ff9dca8f04)
 
