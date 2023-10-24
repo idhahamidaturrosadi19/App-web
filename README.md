@@ -1,4 +1,4 @@
-## Membuat aplikasi e-library (perpustakaan digital) dengan figma, java script, vscode, SQLite
+## Membuat aplikasi e-library (perpustakaan digital) dengan figma, java script, vscode, MySQL
 Idha Hamidaturrosadi 24 Oktober 2023
 
 ## Intro
