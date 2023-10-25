@@ -52,6 +52,7 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 ## Analysis : Structure Data
 •  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
 •  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
+<img width="559" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/5eccaded-3d12-45bf-acc1-f4d366208a4e">
 
 ## Design : Arsitektur Berbasis Client-Server
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
