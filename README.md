@@ -94,5 +94,52 @@ Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada se
 
 ![image](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/cac0767b-78d3-4442-95cb-03ff9dca8f04)
 
-Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
+## Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
+Teknologi Basis Data (Database Technology):
+
+Sistem Manajemen Basis Data (Database Management System - DBMS): Untuk menyimpan, mengelola, dan mengindeks metadata dan konten digital. Beberapa DBMS yang umum digunakan adalah MySQL, PostgreSQL, MongoDB, atau Oracle.
+Bahasa Pemrograman:
+
+Bahasa Pemrograman Server: Bahasa seperti Python, Ruby, Java, atau Node.js digunakan untuk mengembangkan bagian server dari aplikasi e-library.
+Bahasa Pemrograman Klien: HTML, CSS, dan JavaScript digunakan untuk mengembangkan antarmuka pengguna (UI/UX).
+Framework Web:
+
+Framework Front-end: Framework seperti React, Angular, atau Vue.js sering digunakan untuk membangun antarmuka pengguna yang responsif dan dinamis.
+Framework Back-end: Framework seperti Ruby on Rails, Django, atau Express.js digunakan untuk membangun logika bisnis, mengelola permintaan pengguna, dan berinteraksi dengan basis data.
+Sistem Operasi:
+
+Pemilihan sistem operasi seperti Linux, Windows, atau macOS tergantung pada preferensi dan kebutuhan teknis.
+Penyimpanan Konten Digital:
+
+Penyimpanan File: File digital seperti e-books, jurnal, dan lainnya perlu disimpan dengan aman. Teknologi penyimpanan seperti Amazon S3, Google Cloud Storage, atau penyimpanan lokal dapat digunakan.
+Teknologi Pencarian:
+
+Mesin Pencari (Search Engine): Untuk memungkinkan pengguna mencari dan menemukan sumber informasi dengan cepat. Elasticsearch atau Apache Solr adalah opsi yang populer.
+Keamanan:
+
+Teknologi Keamanan: Untuk melindungi data pengguna, enkripsi SSL/TLS, autentikasi pengguna, otorisasi, dan perlindungan terhadap ancaman siber diperlukan.
+API (Application Programming Interface):
+
+API digunakan untuk mengintegrasikan e-library dengan sumber data eksternal, seperti penyedia konten digital eksternal atau perangkat lunak manajemen referensi.
+Pustaka dan Standar:
+
+Menggunakan pustaka dan standar seperti MARC (Machine-Readable Cataloging), Dublin Core, atau Resource Description Framework (RDF) untuk mengelola metadata.
+Konten Digital:
+
+Diperlukan sumber daya digital seperti buku elektronik, jurnal, makalah, tesis, dan materi lainnya yang akan diintegrasikan ke dalam e-library.
+Sistem Manajemen Lisensi:
+
+Untuk mengelola akses berbayar atau berlangganan ke konten premium dan berbagai jenis lisensi.
+Penanganan Data Pribadi dan Kepatuhan:
+
+Penerapan kepatuhan seperti GDPR (General Data Protection Regulation) untuk melindungi data pribadi pengguna.
+Pemantauan Kinerja dan Analitik:
+
+Pemantauan kinerja sistem dan analitik pengguna untuk memahami bagaimana pengguna berinteraksi dengan e-library.
+Sistem Manajemen Konten (CMS):
+
+Untuk mengelola dan memperbarui konten pada situs web e-library.
+Pengembangan Aplikasi Seluler (Opsional):
+
+Jika perlu, pengembangan aplikasi seluler untuk platform seperti iOS dan Android dapat menjadi bagian dari strategi e-library.
 
