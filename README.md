@@ -87,13 +87,6 @@ Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada se
 ![WhatsApp Image 2023-10-31 at 21 27 55_686738d7](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/952d790d-3578-4432-8444-f9758dc71bb3)
 
 
-## Design : User Experience (UX) Design
-•  Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
-•  Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape (yang saya gunakan), Penpot, lalu yang gratis hingga berbayar seperti Figma.
-•  Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
-
-![image](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/cac0767b-78d3-4442-95cb-03ff9dca8f04)
-
 ## Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
 Teknologi Basis Data (Database Technology):
 
@@ -143,3 +136,9 @@ Pengembangan Aplikasi Seluler (Opsional):
 
 Jika perlu, pengembangan aplikasi seluler untuk platform seperti iOS dan Android dapat menjadi bagian dari strategi e-library.
 
+## Design : User Experience (UX) Design
+•  Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
+•  Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape (yang saya gunakan), Penpot, lalu yang gratis hingga berbayar seperti Figma.
+•  Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
+
+![image](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/cac0767b-78d3-4442-95cb-03ff9dca8f04)
