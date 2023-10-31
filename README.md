@@ -54,6 +54,30 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 •  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
 <img width="554" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/079c126c-de0e-423e-849e-895c8d0a94be">
 
+erDiagram
+  PENGGUNA {
+    int id_pengguna
+    string username
+    string email
+    string password
+    string nama_lengkap
+  }
+  PENGGUNA ||--o{ CUITAN : membuat
+  CUITAN ||--o{ CUITAN : membalas 
+  CUITAN {
+    int id_cuitan
+    int id_cuitan_yang_dibalas
+    int id_pengguna 
+    string isi_cuitan 
+    datetime waktu_publikasi 
+  }
+  PENGGUNA ||--o{ PENGIKUT : memiliki
+  PENGGUNA ||--o{ PENGIKUT : mengikuti
+  PENGIKUT {
+    int id_pengguna
+    int id_pengguna_yang_mengikuti
+  }
+
 
 ## Design : Arsitektur Berbasis Client-Server
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
