@@ -1,7 +1,7 @@
-## Membuat aplikasi e-library (perpustakaan digital) dengan figma, java script, vscode, MySQL
+## Membuat aplikasi e-library (perpustakaan digital) dengan figma, javascript, Netbeans, MySQL
 Idha Hamidaturrosadi 24 Oktober 2023
 
-## Intro
+## Latar Belakang
 Perpustakaan digital (digital library atau E – Library) adalah tempat di mana kita dapat membaca koleksi buku dan sumber edukatif lainnya secara digital atau daring. Di era sekarang ini, perpustakaan digital sudah umum dimiliki oleh setiap lembaga pendidikan atau organisasi, seperti yang ada di kampus kita yaitu Digital Library UIN Sunan Gunung Djati. E-library ini dibuat agar orang yang rata-rata tidak mampu membeli buku sekian banyaknya  bisa tetap membaca dan dapat memberikan,kemudahan, praktis dan tidak terbatas oleh waktu dan tempat. Motivasi saya membuat app ini yaitu sebagai sumber edukasi, karena menurut saya membaca itu adalah hal yang penting, apalagi bagi kita sebagai mahasiswa agar dapat memperoleh banyak pengetahuan dan informasi.
 
 ## Analysis : Branding
@@ -58,6 +58,13 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 ## Design : Arsitektur Berbasis Client-Server
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 <img width="346" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/8cf7f382-ea8e-496c-b2d8-3fd16cb8a0e8">
+
+flowchart BT 
+  subgraph cloud
+    B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
+    C <--> D[Database: PostgreSQL] 
+  end
+  A[Aplikasi Android & iPhone: JavaScript - React Native] <--> B
 
 
 ## Design : User Experience (UX) Design
