@@ -94,3 +94,5 @@ Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada se
 
 ![image](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/cac0767b-78d3-4442-95cb-03ff9dca8f04)
 
+Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
+
