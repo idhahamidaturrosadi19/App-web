@@ -2,12 +2,15 @@
 Idha Hamidaturrosadi 24 Oktober 2023
 
 ## Latar Belakang
-Perpustakaan digital (digital library atau E – Library) adalah tempat di mana kita dapat membaca koleksi buku dan sumber edukatif lainnya secara digital atau daring. Di era sekarang ini, perpustakaan digital sudah umum dimiliki oleh setiap lembaga pendidikan atau organisasi, seperti yang ada di kampus kita yaitu Digital Library UIN Sunan Gunung Djati. E-library ini dibuat agar orang yang rata-rata tidak mampu membeli buku sekian banyaknya  bisa tetap membaca dan dapat memberikan,kemudahan, praktis dan tidak terbatas oleh waktu dan tempat. Motivasi saya membuat app ini yaitu sebagai sumber edukasi, karena menurut saya membaca itu adalah hal yang penting, apalagi bagi kita sebagai mahasiswa agar dapat memperoleh banyak pengetahuan dan informasi.
+E-library (perpustakaan digital) seringkali dipicu oleh perkembangan teknologi dan perubahan dalam cara orang mengakses, menyimpan, dan berbagi informasi. Perpustakaan tradisional (offline) telah menghadapi tantangan dalam menyediakan akses mudah dan cepat ke berbagai sumber informasi digital yang semakin meluas. Pandemi COVID-19 juga telah mempercepat transformasi digital di berbagai sektor, termasuk pendidikan dan perpustakaan. Oleh karena itu, pembangunan e-library menjadi penting untuk memenuhi kebutuhan masyarakat dalam mengakses literatur, jurnal, dan sumber informasi lainnya secara digital.
+
+## Deskripsi
+Perpustakaan digital (E – Library) adalah tempat di mana kita dapat membaca koleksi buku dan sumber edukatif lainnya secara digital atau daring. Di era sekarang ini, perpustakaan digital sudah umum dimiliki oleh setiap lembaga pendidikan atau organisasi, seperti yang ada di kampus kita yaitu Digital Library UIN Sunan Gunung Djati. E-library ini dibuat agar orang yang rata-rata tidak mampu membeli buku sekian banyaknya  bisa tetap membaca dan dapat memberikan,kemudahan, praktis dan tidak terbatas oleh waktu dan tempat. Motivasi saya membuat app ini yaitu sebagai sumber edukasi, karena menurut saya membaca itu adalah hal yang penting, apalagi bagi kita sebagai mahasiswa agar dapat memperoleh banyak pengetahuan dan informasi.
 
 ## Analysis : Branding
 
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
-•  Merk: Enjoy read/ knowladge
+•  Merk: Enjoyread knowladge
 •  Tagline: happy membaca serta mendapat informasi/pengetahuan
 •  Campaign: Bagaimana membuat aplikasi yang membuat penggunanya jadi banyak mengetahui segala hal/pengetahuan, serta happy saat membaca karena desainnya tidak terlalu formal
 •  Target user:
