@@ -86,6 +86,8 @@ erDiagram
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 ![WhatsApp Image 2023-10-31 at 21 27 55_686738d7](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/952d790d-3578-4432-8444-f9758dc71bb3)
 
+<img width="436" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/495510a7-6156-4b98-8658-645f15df8e15">
+
 
 ## Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
 Teknologi Basis Data (Database Technology):
