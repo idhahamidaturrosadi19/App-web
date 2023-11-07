@@ -94,17 +94,14 @@ erDiagram
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 ![WhatsApp Image 2023-10-31 at 21 27 55_686738d7](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/952d790d-3578-4432-8444-f9758dc71bb3)
 
-```mermiad
-
+```mermaid
 flowchart BT 
   subgraph cloud
     B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
-    C <--> D[Database: MySQL] 
+    C <--> D[Database: mySQL] 
   end
-  A[Aplikasi Android : JavaScript ] <--> B
-
+  A[Aplikasi web : JavaScript] <--> B
 ```
-
 
 
 ## Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
