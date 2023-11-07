@@ -111,6 +111,11 @@ Dalam pembuatan aplikasi E-library, kami menggunakan sejumlah teknologi, library
 
 
 
+
+
+
+
+
 ## Design : User Experience (UX) Design
 
 •  Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
