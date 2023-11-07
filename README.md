@@ -112,7 +112,9 @@ Dalam pembuatan aplikasi E-library ini, saya menggunakan Figma untuk mendesign, 
 ## Design : User Experience (UX) Design
 
 •  Pada tahap ini kita mengeksplorasi alur interaksi pengguna yang paling praktis dan efektif untuk setiap fitur.
+
 •  Ada banyak tools yang bisa digunakan mulai dari yang open source seperti Inkscape (yang saya gunakan), Penpot, lalu yang gratis hingga berbayar seperti Figma.
+
 •  Desain yang dibuat di atas adalah low fidelity design dimana kualitas desainnya paling sederhana tapi cepat untuk dibuat.
 
 <img width="403" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/230e1840-9fab-424a-a250-787014b1c70f">
