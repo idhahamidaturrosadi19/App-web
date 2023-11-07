@@ -70,6 +70,7 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 |15|Pengguna |Menerima rekomendasi buku berdasarkan minat saya dan histori bacaan saya|Saya dapat menemukan buku-buku baru yang menarik| ⭐⭐⭐⭐ |
 
 ## Analysis : Structure Data
+
 ```mermaid
 erDiagram
     PENGGUNA ||--o{BOOK : mencari
@@ -86,35 +87,10 @@ erDiagram
 ```
 
 •  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
-•  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
-
-```mermaid
-erDiagram
-  PENGGUNA {
-    int id_pengguna
-    string username
-    string email
-    string password
-    string nama_lengkap
-  }
-  PENGGUNA ||--o{ CUITAN : membuat
-  CUITAN ||--o{ CUITAN : membalas 
-  CUITAN {
-    int id_cuitan
-    int id_cuitan_yang_dibalas
-    int id_pengguna 
-    string isi_cuitan 
-    datetime waktu_publikasi 
-  }
-  PENGGUNA ||--o{ PENGIKUT : memiliki
-  PENGGUNA ||--o{ PENGIKUT : mengikuti
-  PENGIKUT {
-    int id_pengguna
-    int id_pengguna_yang_mengikuti
-  }
-```
-
+•  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribu
+  
 ## Design : Arsitektur Berbasis Client-Server
+
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 ![WhatsApp Image 2023-10-31 at 21 27 55_686738d7](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/952d790d-3578-4432-8444-f9758dc71bb3)
 
