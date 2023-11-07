@@ -105,7 +105,8 @@ flowchart BT
 
 ## Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
 
-Dalam pembuatan aplikasi E-library ini, saya menggunakan Figma untuk mendesign, Netbeans Java swing untuk kodingannya, dan Databasenya menggunakan MySQL
+Dalam pembuatan aplikasi E-library ini, saya menggunakan Figma untuk mendesign, Netbeans Java swing untuk kodingannya, menggunakan bahasa pemrograman JavaScript untuk mengembangkan aplikasi web dan server juga menggunakan basis data (Database) MySQL untuk menyimpan dan mengelola metadata dan sumber daya digital.
+
 
 
 
