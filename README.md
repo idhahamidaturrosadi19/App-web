@@ -10,22 +10,39 @@ Perpustakaan digital (E – Library) adalah tempat di mana kita dapat membaca ko
 ## Analysis : Branding
 
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
-•  Merk: Enjoyread knowladge
+
+•  Merk: Enjoyread
+
 •  Tagline: happy membaca serta mendapat informasi/pengetahuan
+
 •  Campaign: Bagaimana membuat aplikasi yang membuat penggunanya jadi banyak mengetahui segala hal/pengetahuan, serta happy saat membaca karena desainnya tidak terlalu formal
+
 •  Target user:
+
 o  Usia 12+
+
 o  Seorang yang senang mencari inspirasi dan informasi baru
+
 o  Seorang yang senang membaca tapi praktis
+
 o  Seorang yang ingin mendapatkan pengetahuan banyak
+
 o  Seorang yang senang membaca lewat gadget
+
 o  Seorang yang kurang mampu membeli buku, tapi berkeinginan/excited untuk membaca
+
 •  User experience theme:
+
 o  Mudah
+
 o  Memberikan banyak pengetahuan
+
 o  Simpel
+
 o  Menyenangkan
+
 o  Warna: Lime fizz
+
 o  Inspirasi desain:
 
 <img width="614" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/28c40678-8fe8-44e9-a8cd-08ca06aa4669">
