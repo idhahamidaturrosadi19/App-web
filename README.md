@@ -70,6 +70,20 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 |15|Pengguna |Menerima rekomendasi buku berdasarkan minat saya dan histori bacaan saya|Saya dapat menemukan buku-buku baru yang menarik| ⭐⭐⭐⭐ |
 
 ## Analysis : Structure Data
+```mermaid
+erDiagram
+    PENGGUNA ||--o{ WALLPAPER : mencari
+    PENGGUNA {
+        string Idpengguna
+    }
+    WALLPAPER {
+        string kategorikoleksi
+        string gambarwallpaper
+        int idwallpaper
+         }
+
+```        
+
 •  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
 •  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
 <img width="554" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/079c126c-de0e-423e-849e-895c8d0a94be">
