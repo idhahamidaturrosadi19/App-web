@@ -92,7 +92,6 @@ erDiagram
 ## Design : Arsitektur Berbasis Client-Server
 
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
-![WhatsApp Image 2023-10-31 at 21 27 55_686738d7](https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/952d790d-3578-4432-8444-f9758dc71bb3)
 
 ```mermaid
 flowchart BT 
