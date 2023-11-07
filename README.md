@@ -87,8 +87,8 @@ erDiagram
 
 •  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
 •  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
-<img width="554" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/079c126c-de0e-423e-849e-895c8d0a94be">
 
+```mermaid
 erDiagram
   PENGGUNA {
     int id_pengguna
@@ -112,7 +112,7 @@ erDiagram
     int id_pengguna
     int id_pengguna_yang_mengikuti
   }
-
+```
 
 ## Design : Arsitektur Berbasis Client-Server
 Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
