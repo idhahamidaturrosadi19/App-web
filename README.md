@@ -72,17 +72,18 @@ Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk 
 ## Analysis : Structure Data
 ```mermaid
 erDiagram
-    PENGGUNA ||--o{ WALLPAPER : mencari
+    PENGGUNA ||--o{BOOK : mencari
     PENGGUNA {
-        string Idpengguna
+        int Id_pengguna
     }
-    WALLPAPER {
-        string kategorikoleksi
-        string gambarwallpaper
-        int idwallpaper
+    BOOK {
+        int Id_buku
+        String nama_buku
+        String nama_penerbit
+        String tahun_penerbit
+        String autor
          }
-
-```        
+```
 
 •  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
 •  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribut
