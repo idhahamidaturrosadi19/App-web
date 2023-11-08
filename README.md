@@ -97,7 +97,7 @@ Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada se
 flowchart BT 
   subgraph cloud
     B[Web Server: JavaScript - Express.js] <--> C[Aplikasi Web Backend: JavaScript - Express.js] 
-    C <--> D[Database: mySQL] 
+    C <--> D[Database: MySQL] 
   end
   A[Aplikasi web : JavaScript] <--> B
 ```
