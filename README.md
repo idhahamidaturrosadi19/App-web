@@ -94,7 +94,7 @@ erDiagram
   
 ## Design : Arsitektur Berbasis Client-Server
 
-Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
+• Pada tahap ini kita merancang arsitektur berikut teknologi yang terdapat pada setiap komponen pembentuk aplikasi.
 
 ```mermaid
 flowchart BT 
