@@ -108,15 +108,7 @@ flowchart BT
 
 ## Deskripsikan teknologi, library, dan framework apa saja yang kamu gunakan dalam membangun produk ini !
 
-Dalam pembuatan aplikasi E-library ini, saya menggunakan Figma untuk mendesign, Netbeans Java swing untuk kodingannya, menggunakan bahasa pemrograman JavaScript untuk mengembangkan aplikasi web dan server juga menggunakan basis data (Database) MySQL untuk menyimpan dan mengelola metadata dan sumber daya digital.
-Dalam pembuatan aplikasi E-library, kami menggunakan sejumlah teknologi, library, dan framework yang berbeda untuk mencapai hasil yang optimal. Untuk desain antarmuka pengguna, kami memanfaatkan Figma, sebuah alat desain UI/UX yang memungkinkan kami untuk merancang tampilan aplikasi dengan tampilan yang menarik dan fungsional. Untuk pengembangan aplikasi itu sendiri, kami memilih NetBeans Java Swing, yang adalah kerangka kerja GUI Java yang kuat. Ini memberikan kemampuan untuk membuat antarmuka yang responsif dan mudah digunakan dalam bahasa pemrograman Java. Selain itu, kami menggunakan database MySQL untuk menyimpan dan mengelola metadata dan sumber daya digital, memastikan pengelolaan data yang efisien dan aman dalam aplikasi E-library kami. Kombinasi dari teknologi ini memungkinkan kami untuk mengembangkan produk E-library yang kuat dan berfungsi dengan desain yang menarik dan pengalaman pengguna yang baik.
-
-
-
-
-
-
-
+Dalam pembuatan aplikasi E-library ini, saya menggunakan sejumlah teknologi, library, dan framework yang berbeda untuk mencapai hasil yang optimal. Untuk desainnya, saya menggunakan Figma, sebuah alat desain UI/UX yang membantu saya untuk merancang tampilan aplikasi dengan tampilan yang menarik dan fungsional. Untuk pengembangan aplikasinya/kodingannya saya memilih NetBeans Java Swing, yang adalah kerangka kerja GUI Java yang kuat. Di dalam netbeans saya menambahkan komponen-komponen Swing seperti JLabel, JFrame, JPanel, dan komponen-komponen lainnya sesuai desain figma yang akan saya buat. Lalu sesuaikan desain seperti tombolnya, panel, dan elemen-elemen lainnya. Saya menggunakan bahasa pemrograman JavaScript untuk mengembangkan aplikasi web dan server. Ini memberikan kemampuan untuk membuat antarmuka yang responsif dan mudah digunakan dalam bahasa pemrograman Java. Selain itu, saya menggunakan database MySQL untuk menyimpan dan mengelola metadata dan sumber daya digital, memastikan pengelolaan data yang efisien dan aman dalam aplikasi E-library kami. Kombinasi dari teknologi ini memungkinkan kami untuk mengembangkan produk E-library yang kuat dan berfungsi dengan desain yang menarik dan pengalaman pengguna yang baik. 
 
 
 ## Design : User Experience (UX) Design
