@@ -89,6 +89,7 @@ erDiagram
 ```
 
 •  Pada tahap ini kita mengeksplorasi dan menganalisis bentuk struktur data yang mampu memfasilitasi user story yang ada, maupun yang kemungkinan besar dibutuhkan di kemudian hari
+
 •  Kita akan merepresentasikan Entitas pada aplikasi dalam bentuk tabel Entitas dan Atribu
   
 ## Design : Arsitektur Berbasis Client-Server
