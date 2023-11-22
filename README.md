@@ -49,7 +49,9 @@ o  Inspirasi desain:
 
 ## Analysis User Story :
 
-Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat. User story ini memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
+o Pada tahap ini kita mengeksplorasi kebutuhan prioritas dari para pengguna untuk kita wujudkan sebagai fitur pada sistem atau aplikasi yang akan dibuat.
+
+o User story ini memudahkan kita membuat prioritas fitur-fitur untuk dikerjakan untuk jangka waktu tertentu.
 
 | No | Sebagai |  Saya ingin bisa | Sehingga | Prioritas |
 |----|---------|------------------|----------|-----------|
