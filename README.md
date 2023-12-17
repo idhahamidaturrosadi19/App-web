@@ -7,6 +7,9 @@ Dengan perkembangan teknologi dan kebutuhan akses informasi yang lebih luas, e-l
 ## Deskripsi
 Perpustakaan digital (E – Library) adalah tempat di mana kita dapat membaca koleksi buku dan sumber edukatif lainnya secara online. Di era sekarang ini, perpustakaan digital sudah umum dimiliki oleh setiap lembaga pendidikan atau organisasi, seperti yang ada di kampus kita yaitu Digital Library UIN Sunan Gunung Djati. E-library ini dibuat agar orang yang rata-rata tidak mampu membeli buku sekian banyaknya  bisa tetap membaca dan dapat memberikan,kemudahan, praktis dan tidak terbatas oleh waktu dan tempat. Motivasi saya membuat app ini yaitu sebagai sumber edukasi, karena menurut saya membaca itu adalah hal yang penting, apalagi bagi kita sebagai mahasiswa agar dapat memperoleh banyak pengetahuan dan informasi juga memberikan pengalaman belajar dan penelitian yang lebih baik.
 
+<img width="632" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/869352ce-b7a7-4dbe-be2f-6336acc06863">
+
+
 ## Analysis : Branding
 
 Pada tahap ini kita mengeksplorasi branding dari sistem yang dibuat. Branding meliputi:
