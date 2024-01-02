@@ -123,13 +123,20 @@ Dalam pembuatan aplikasi E-library ini, saya menggunakan sejumlah teknologi, lib
 
 ## bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
 
+https://drive.google.com/drive/folders/1SBWGmLf1omktCW-u57bAsQkAk-YEwNUM?usp=sharing
 
 ## bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
 
+https://drive.google.com/drive/folders/1--mQbpLsu_r2KiNEIjNRRhCtzzALEWLa?usp=sharing
+
 ## bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu
+
+https://drive.google.com/drive/folders/1FAWEF9F2H7U5lCglJOqgmy3GfpNXPVaE?usp=sharing
 
 ## bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu
 
+https://drive.google.com/drive/folders/1vUiTqC-O0-PWzW-WwUSe06qL1pXQC6o2?usp=sharing
+
 ## Demonstrasikan produk teknologi informasi yang kamu buat dalam video
 
-
+https://drive.google.com/drive/folders/1HKYmOnTePZs3M9JQ8JBBPriICCbjUyko?usp=sharing
