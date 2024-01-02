@@ -121,3 +121,15 @@ Dalam pembuatan aplikasi E-library ini, saya menggunakan sejumlah teknologi, lib
 
 <img width="403" alt="image" src="https://github.com/idhahamidaturrosadi19/App-web/assets/144808574/230e1840-9fab-424a-a250-787014b1c70f">
 
+## bagaimana database / sistem basis data berperan dalam produk teknologi informasimu
+
+
+## bagaimana metode pengembangan perangkat lunak / Software Development Life Cycle berperan dalam produk teknologi informasimu
+
+## bagaimana algoritma, struktur data, dan bahasa pemrograman berperan dalam produk teknologi informasimu
+
+## bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu
+
+## Demonstrasikan produk teknologi informasi yang kamu buat dalam video
+
+
